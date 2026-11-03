@@ -1,0 +1,36 @@
+KPI,Value,Status
+Colorbar Brand Health Score,25.0,Critical
+Colorbar Customer Satisfaction Index (CSAT),0.0,Critical
+Colorbar Competitive Position Score,25.0,Critical
+Herbal Essences Brand Health Score,82.93,Excellent
+Herbal Essences Customer Satisfaction Index (CSAT),79.36,Good
+Herbal Essences Competitive Position Score,48.3,Fair
+Kay Beauty Brand Health Score,83.86,Excellent
+Kay Beauty Customer Satisfaction Index (CSAT),78.97,Good
+Kay Beauty Competitive Position Score,55.62,Fair
+L'Oreal Paris Brand Health Score,79.14,Good
+L'Oreal Paris Customer Satisfaction Index (CSAT),73.91,Good
+L'Oreal Paris Competitive Position Score,45.67,Fair
+Lakme Brand Health Score,82.75,Excellent
+Lakme Customer Satisfaction Index (CSAT),77.98,Good
+Lakme Competitive Position Score,49.48,Fair
+Maybelline New York Brand Health Score,83.27,Excellent
+Maybelline New York Customer Satisfaction Index (CSAT),78.73,Good
+Maybelline New York Competitive Position Score,49.47,Fair
+NYX Professional Makeup Brand Health Score,83.37,Excellent
+NYX Professional Makeup Customer Satisfaction Index (CSAT),78.84,Good
+NYX Professional Makeup Competitive Position Score,46.36,Fair
+Nivea Brand Health Score,76.94,Good
+Nivea Customer Satisfaction Index (CSAT),71.45,Good
+Nivea Competitive Position Score,41.85,Fair
+Nykaa Cosmetics Brand Health Score,80.82,Excellent
+Nykaa Cosmetics Customer Satisfaction Index (CSAT),75.5,Good
+Nykaa Cosmetics Competitive Position Score,57.47,Fair
+Nykaa Naturals Brand Health Score,63.2,Good
+Nykaa Naturals Customer Satisfaction Index (CSAT),55.61,Fair
+Nykaa Naturals Competitive Position Score,36.56,Critical
+Olay Brand Health Score,73.62,Good
+Olay Customer Satisfaction Index (CSAT),67.42,Good
+Olay Competitive Position Score,40.24,Fair
+Data Quality Score (Completeness),100.0,Excellent
+Pipeline Health Status,40.0,Critical

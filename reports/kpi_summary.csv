@@ -1,0 +1,14 @@
+KPI_Name,Dimension,KPI_Value,KPI_Target,KPI_Status
+Net Sentiment Score,Colorbar,0.0,50.0,Critical
+Net Sentiment Score,Herbal Essences,73.0,50.0,Outstanding
+Net Sentiment Score,Kay Beauty,77.48,50.0,Outstanding
+Net Sentiment Score,L'Oreal Paris,68.73,50.0,Outstanding
+Net Sentiment Score,Lakme,75.06,50.0,Outstanding
+Net Sentiment Score,Maybelline New York,75.62,50.0,Outstanding
+Net Sentiment Score,NYX Professional Makeup,75.8,50.0,Outstanding
+Net Sentiment Score,Nivea,64.86,50.0,Outstanding
+Net Sentiment Score,Nykaa Cosmetics,72.29,50.0,Outstanding
+Net Sentiment Score,Nykaa Naturals,41.58,50.0,Below Target
+Net Sentiment Score,Olay,59.65,50.0,Outstanding
+Data Completeness Rate,System,100.0,95.0,On Target
+Pipeline Health,Database,40.0,90.0,Critical

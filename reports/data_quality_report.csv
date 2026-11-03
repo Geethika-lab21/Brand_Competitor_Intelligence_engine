@@ -1,0 +1,10 @@
+metric,value
+total_posts,7.0
+total_comments,35.0
+total_brands,2.0
+unique_authors,9.0
+unique_subreddits,2.0
+avg_post_score,58.86
+avg_comment_score,10.0
+duplicate_posts,0.0
+duplicate_comments,0.0

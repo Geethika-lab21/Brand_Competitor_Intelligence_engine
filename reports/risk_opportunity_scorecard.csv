@@ -1,0 +1,158 @@
+Type,Topic,Frequency,Brand,Priority
+Opportunity,Product Quality,10402,Nykaa Cosmetics,High
+Opportunity,Product Quality,8371,Kay Beauty,High
+Opportunity,Product Quality,4247,Lakme,High
+Opportunity,Product Quality,4241,Maybelline New York,High
+Opportunity,Product Quality,2365,Herbal Essences,High
+Opportunity,Product Quality,2265,L'Oreal Paris,High
+Opportunity,Product Quality,1690,NYX Professional Makeup,High
+Opportunity,Lightweight Formula,1257,Kay Beauty,High
+Opportunity,Lightweight Formula,797,Nykaa Cosmetics,High
+Opportunity,Visible Results,778,Herbal Essences,High
+Opportunity,Lightweight Formula,658,Herbal Essences,High
+Opportunity,Value For Money,492,Nykaa Cosmetics,High
+Opportunity,Pleasant Fragrance,453,Herbal Essences,High
+Opportunity,Product Quality,395,Nykaa Naturals,High
+Opportunity,Lightweight Formula,380,Lakme,High
+Opportunity,Pleasant Fragrance,357,Nykaa Cosmetics,High
+Opportunity,Lightweight Formula,353,Maybelline New York,High
+Opportunity,Visible Results,341,Nykaa Cosmetics,High
+Opportunity,Product Quality,333,Nivea,High
+Opportunity,Lightweight Formula,295,NYX Professional Makeup,High
+Opportunity,Value For Money,283,Kay Beauty,High
+Opportunity,Visible Results,272,L'Oreal Paris,High
+Opportunity,Visible Results,271,Maybelline New York,High
+Opportunity,Visible Results,253,Kay Beauty,High
+Opportunity,Skin Hydration,251,Nykaa Cosmetics,High
+Opportunity,Visible Results,234,Lakme,High
+Opportunity,Value For Money,232,Lakme,High
+Opportunity,Repurchase Intent,228,Nykaa Cosmetics,High
+Opportunity,Skin Hydration,220,Kay Beauty,High
+Opportunity,Value For Money,214,Maybelline New York,High
+Opportunity,Good Packaging,183,Nykaa Cosmetics,High
+Opportunity,Visible Results,182,Nykaa Naturals,High
+Opportunity,Repurchase Intent,159,Kay Beauty,High
+Opportunity,Lightweight Formula,154,L'Oreal Paris,High
+Opportunity,Skin Hydration,134,Lakme,High
+Opportunity,Value For Money,131,L'Oreal Paris,High
+Opportunity,Visible Results,130,NYX Professional Makeup,High
+Opportunity,Product Quality,126,Olay,High
+Opportunity,Value For Money,116,Herbal Essences,High
+Opportunity,Skin Hydration,108,Herbal Essences,High
+Opportunity,Skin Hydration,107,L'Oreal Paris,High
+Opportunity,Good Packaging,95,Kay Beauty,High
+Opportunity,Repurchase Intent,88,Maybelline New York,High
+Opportunity,Skin Hydration,77,Maybelline New York,High
+Opportunity,Repurchase Intent,67,Herbal Essences,High
+Opportunity,Repurchase Intent,65,L'Oreal Paris,High
+Opportunity,Skin Hydration,62,NYX Professional Makeup,High
+Opportunity,Visible Results,58,Nivea,High
+Opportunity,Effective Ingredients,56,Kay Beauty,High
+Opportunity,Repurchase Intent,56,Lakme,High
+Opportunity,Good Packaging,51,Herbal Essences,High
+Opportunity,Pleasant Fragrance,51,Lakme,High
+Opportunity,Value For Money,51,NYX Professional Makeup,High
+Opportunity,Value For Money,47,Nykaa Naturals,High
+Opportunity,Visible Results,47,Olay,High
+Opportunity,Skin Hydration,46,Olay,High
+Opportunity,Effective Ingredients,42,Herbal Essences,High
+Opportunity,Lightweight Formula,38,Nivea,High
+Opportunity,Good Packaging,35,L'Oreal Paris,High
+Opportunity,Pleasant Fragrance,34,L'Oreal Paris,High
+Opportunity,Good Packaging,32,Maybelline New York,High
+Opportunity,Effective Ingredients,31,Nykaa Cosmetics,High
+Opportunity,Skin Hydration,29,Nivea,High
+Opportunity,Value For Money,28,Nivea,High
+Opportunity,Good Packaging,27,Lakme,High
+Opportunity,Lightweight Formula,27,Nykaa Naturals,High
+Opportunity,Lightweight Formula,25,Olay,High
+Opportunity,Repurchase Intent,21,Nykaa Naturals,High
+Opportunity,Repurchase Intent,20,NYX Professional Makeup,High
+Opportunity,Effective Ingredients,18,NYX Professional Makeup,High
+Opportunity,Repurchase Intent,15,Nivea,High
+Opportunity,Good Packaging,13,NYX Professional Makeup,High
+Opportunity,Effective Ingredients,11,Maybelline New York,High
+Opportunity,Pleasant Fragrance,11,NYX Professional Makeup,High
+Opportunity,Effective Ingredients,10,L'Oreal Paris,High
+Opportunity,Effective Ingredients,10,Nykaa Naturals,High
+Opportunity,Pleasant Fragrance,10,Nivea,High
+Opportunity,Good Packaging,9,Nivea,High
+Opportunity,Good Packaging,9,Nykaa Naturals,High
+Opportunity,Effective Ingredients,6,Lakme,High
+Opportunity,Value For Money,6,Olay,High
+Opportunity,Pleasant Fragrance,4,Kay Beauty,High
+Opportunity,Pleasant Fragrance,4,Maybelline New York,High
+Opportunity,Pleasant Fragrance,4,Nykaa Naturals,High
+Opportunity,Good Packaging,3,Olay,High
+Opportunity,Skin Hydration,3,Nykaa Naturals,High
+Opportunity,Effective Ingredients,1,Nivea,Low
+Opportunity,Repurchase Intent,1,Olay,Low
+Risk,Product Ineffectiveness,390,Nykaa Cosmetics,High
+Risk,Hair Fall,277,Herbal Essences,High
+Risk,Product Ineffectiveness,160,Maybelline New York,High
+Risk,Product Ineffectiveness,134,Lakme,High
+Risk,Product Ineffectiveness,115,L'Oreal Paris,High
+Risk,Product Ineffectiveness,109,Kay Beauty,High
+Risk,Breakouts,90,Nykaa Naturals,High
+Risk,Product Ineffectiveness,61,NYX Professional Makeup,High
+Risk,Product Ineffectiveness,35,Herbal Essences,High
+Risk,Price Concerns,31,Nykaa Cosmetics,High
+Risk,Strong Fragrance,31,Nykaa Cosmetics,High
+Risk,Product Ineffectiveness,30,Nivea,High
+Risk,Product Ineffectiveness,28,Nykaa Naturals,High
+Risk,Price Concerns,26,Kay Beauty,High
+Risk,Hair Fall,25,L'Oreal Paris,High
+Risk,Packaging Issues,20,Nykaa Cosmetics,High
+Risk,Price Concerns,20,Nykaa Naturals,High
+Risk,Price Concerns,18,Lakme,High
+Risk,Hair Fall,16,Nykaa Cosmetics,High
+Risk,Product Ineffectiveness,16,Olay,High
+Risk,Skin Irritation,16,L'Oreal Paris,High
+Risk,Hair Fall,13,Nykaa Naturals,High
+Risk,Skin Irritation,13,Kay Beauty,High
+Risk,Breakouts,12,Kay Beauty,High
+Risk,Hair Fall,12,Kay Beauty,High
+Risk,Price Concerns,12,Maybelline New York,High
+Risk,Breakouts,9,L'Oreal Paris,High
+Risk,Price Concerns,9,NYX Professional Makeup,High
+Risk,Strong Fragrance,8,L'Oreal Paris,High
+Risk,Packaging Issues,7,L'Oreal Paris,High
+Risk,Skin Irritation,7,Lakme,High
+Risk,Skin Irritation,7,Maybelline New York,High
+Risk,Price Concerns,6,L'Oreal Paris,High
+Risk,Skin Irritation,5,Nykaa Cosmetics,High
+Risk,Skin Irritation,5,Nykaa Naturals,High
+Risk,White Cast,5,L'Oreal Paris,High
+Risk,White Cast,5,Lakme,High
+Risk,Hair Fall,4,Lakme,High
+Risk,Price Concerns,4,Nivea,High
+Risk,Skin Irritation,4,Olay,High
+Risk,White Cast,4,Nivea,High
+Risk,Breakouts,3,Lakme,High
+Risk,Breakouts,3,Olay,High
+Risk,Price Concerns,3,Olay,High
+Risk,Strong Fragrance,3,Lakme,High
+Risk,White Cast,3,Kay Beauty,High
+Risk,Breakouts,2,NYX Professional Makeup,Medium
+Risk,Delivery Issues,2,L'Oreal Paris,Medium
+Risk,Hair Fall,2,Maybelline New York,Medium
+Risk,Packaging Issues,2,Kay Beauty,Medium
+Risk,Packaging Issues,2,NYX Professional Makeup,Medium
+Risk,Packaging Issues,2,Nykaa Naturals,Medium
+Risk,Strong Fragrance,2,Maybelline New York,Medium
+Risk,White Cast,2,Maybelline New York,Medium
+Risk,White Cast,2,NYX Professional Makeup,Medium
+Risk,Breakouts,1,Nivea,Low
+Risk,Delivery Issues,1,Nykaa Cosmetics,Low
+Risk,Delivery Issues,1,Olay,Low
+Risk,Hair Fall,1,NYX Professional Makeup,Low
+Risk,Packaging Issues,1,Herbal Essences,Low
+Risk,Packaging Issues,1,Lakme,Low
+Risk,Packaging Issues,1,Maybelline New York,Low
+Risk,Skin Irritation,1,Herbal Essences,Low
+Risk,Skin Irritation,1,NYX Professional Makeup,Low
+Risk,Skin Irritation,1,Nivea,Low
+Risk,Strong Fragrance,1,Herbal Essences,Low
+Risk,Strong Fragrance,1,Nivea,Low
+Risk,Strong Fragrance,1,Nykaa Naturals,Low
+Risk,White Cast,1,Nykaa Cosmetics,Low

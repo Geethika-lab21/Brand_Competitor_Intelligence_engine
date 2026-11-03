@@ -1,0 +1,13 @@
+brand,total_records,positive_pct,neutral_pct,negative_pct,net_sentiment
+Colorbar,1.0,0.0,100.0,0.0,0.0
+Herbal Essences,6197.0,79.36,14.28,6.36,73.0
+Kay Beauty,13783.0,78.97,19.53,1.49,77.48
+L'Oreal Paris,4273.0,73.91,20.92,5.17,68.73
+Lakme,6997.0,77.98,19.11,2.92,75.06
+Maybelline New York,6821.0,78.73,18.16,3.11,75.62
+NYX Professional Makeup,2954.0,78.84,18.11,3.05,75.8
+Nivea,774.0,71.45,21.96,6.59,64.86
+Nykaa Cosmetics,17650.0,75.5,21.3,3.2,72.29
+Nykaa Naturals,1426.0,55.61,30.36,14.03,41.58
+Olay,399.0,67.42,24.81,7.77,59.65
+Brand Sentiment Gap (Nykaa Cosmetics - Kay Beauty),,,,,-5.19
